@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-fhssu6.hitungbangun.id/sitemap.xml
